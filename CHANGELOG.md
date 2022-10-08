@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2022-10-08
+
+### Fixed in 1.0.2
+
+- Minor fix links in Change Log.
+
 ## [1.0.1] - 2022-10-08
 
 ### Added in 1.0.1
@@ -24,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - A list of extensions included in the extension pack.
 
-[Unreleased]: https://github.com/hakula139/cpp-extension-pack/compare/v1.0.0...HEAD
-[1.0.1]: https://github.com/hakula139/cpp-extension-pack/v1.0.0...v1.0.1
+[Unreleased]: https://github.com/hakula139/cpp-extension-pack/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/hakula139/cpp-extension-pack/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/hakula139/cpp-extension-pack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/hakula139/cpp-extension-pack/releases/tag/v1.0.0
