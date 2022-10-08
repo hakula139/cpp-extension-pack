@@ -1,0 +1,39 @@
+{
+  "name": "cpp-extension-pack-hakula",
+  "displayName": "C/C++ Extension Pack",
+  "description": "An extension pack for C/C++ development in Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "hakula",
+  "author": {
+    "name": "Hakula Chen",
+    "email": "i@hakula.xyz"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakula139/cpp-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/hakula139/cpp-extension-pack/issues"
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes",
+    "jeff-hykin.better-cpp-syntax",
+    "akiramiyakoda.cppincludeguard",
+    "cschlosser.doxdocgen",
+    "xaver.clang-format",
+    "mine.cpplint",
+    "vadimcn.vscode-lldb",
+    "ms-vscode.cmake-tools",
+    "twxs.cmake",
+    "josetr.cmake-language-support-vscode",
+    "ms-vscode.makefile-tools"
+  ]
+}
